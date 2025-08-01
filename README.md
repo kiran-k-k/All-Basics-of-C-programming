@@ -1,5 +1,4 @@
 # All-Basics-of-C-programming
-Here’s a clear and professional GitHub repository description for your C programming collection:
 
 ---
 
